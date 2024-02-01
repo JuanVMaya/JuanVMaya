@@ -6,7 +6,7 @@
 - 🫂 I’m looking to collaborate on full-stack development.
 - 🎮 Games I really enjoy: Various trading card games!
 
-### Currently in Toronto, Canada 🍁
+### Soon in Ottawa, Canada 🍁
 
 ## Skills
 <p align="center">
