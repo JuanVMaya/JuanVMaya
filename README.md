@@ -2,7 +2,7 @@
 
 ## About me
 - 👀 I’m interested in learning about many disciplines! Software development, electronics design, 3D modeling, personal finance, sales techniques, product development, project management... you name it!
-- 🧠 Right now I'm working on an opinionated [T3 App](https://github.com/t3-oss/create-t3-app) project!
+- 🧠 Right now I'm working on an Electronic Memory Gauge [project](https://theonevault.store/products/memory-counter-10-0-10-battery-powered-electronic-digimon-card-game-compatible-game-counter-personalized-colors-trading-card-game-tcg) for the current card game I play!
 - 🫂 I’m looking to collaborate on full-stack development and embedded systems development.
 - 🎮 Games I really enjoy: Various trading card games!
 
